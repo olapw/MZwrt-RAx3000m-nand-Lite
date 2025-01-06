@@ -9,8 +9,8 @@ on:
     - cron: 25 18 * * 6
 
 # 点赞☆Star触发编译
-#  watch:
-#    types: [started]
+  watch:
+    types: [started]
 
 jobs:
   Build_mt7981_rax3000m:
